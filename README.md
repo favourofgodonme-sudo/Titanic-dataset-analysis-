@@ -6,3 +6,4 @@ at this point after I have understood the data, I cleaned the data by removing, 
 then I performed the Bivariate, multiverate and univeriate analysis to display the data in visaul forms for better understanding and interpretation of relationship 
 finally I wrote my insights, recommendations and executive summary of the data analysis
 The dataset was gotten from keggle.com
+!(Dashboard)(Dashboard.Jpg)
