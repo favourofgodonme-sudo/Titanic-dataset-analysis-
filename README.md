@@ -7,3 +7,4 @@ then I performed the Bivariate, multiverate and univeriate analysis to display t
 finally I wrote my insights, recommendations and executive summary of the data analysis
 The dataset was gotten from keggle.com
 !(Dashboard)(dashboard.Jpg)
+<img width="1020" height="1584" alt="17872904589567877270155144262943" src="https://github.com/user-attachments/assets/8bfbff88-9c5d-44c0-b3db-8ad24fff85fa" />
